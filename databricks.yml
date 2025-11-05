@@ -4,7 +4,7 @@ bundle:
 variables:
   catalog_name:
     description: "Unity Catalog name for the demand forecasting solution"
-    default: "dev_demand_forecasting"
+    default: "dev_demand_forecasting_marinaccorby"
 
   schema_name:
     description: "Schema name within the catalog"
